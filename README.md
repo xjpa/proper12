@@ -1,10 +1,10 @@
 This contains my studies on the [Proper 12](https://www.youtube.com/watch?v=hscqQIkp1fA) of CS
 
-"What I cannot create, I do not understand" -- Richard Feynman
+> "What I cannot create, I do not understand" -- Richard Feynman
 
 The goal is to implement topics I'm learning in Computer Science at university via code
 
-Such as learning databases? Well let's not just learn SQL and normalization, let's also build our own SQL Engine. Or learning about LLMs? Let's build one.
+Such as learning databases? Let's not just learn SQL and normalization, let's also build our own SQL Engine. Or learning about LLMs? Let's build one.
 
 - `AI`: machine learning, data science, language models
 - `computer-graphics`: not really implementations from scratch as I'll rely on [ThreeJS](https://en.wikipedia.org/wiki/Three.js)
