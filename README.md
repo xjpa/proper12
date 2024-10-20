@@ -1,6 +1,8 @@
 This contains my studies on the [Proper 12](https://www.youtube.com/watch?v=hscqQIkp1fA) of CS
 
-> "What I cannot create, I do not understand" -- Richard Feynman
+> "What I cannot create, I do not understand"
+>
+> -- Richard Feynman
 
 The goal is to implement topics I'm learning in Computer Science at university via code
 
